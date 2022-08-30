@@ -1,0 +1,10 @@
+<launch>
+
+  <node pkg="rm_ctrl" name="rm_ctrl_node" type="rm_ctrl_node" output="screen">
+    <rosparam command="load" file="$(find rm_ctrl)/config/param.yaml"/>
+  </node>
+
+  
+
+
+</launch>
