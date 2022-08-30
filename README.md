@@ -14,7 +14,7 @@ sudo make install
 
 # Usage
 
-Set some parameter at [./rm_ctrl/config.param.yaml](./rm_ctrl/config.param.yaml)
+Set some parameter at [./rm_ctrl/config.param.yaml](./rm_ctrl/config/param.yaml)
 
 ```yaml
 topics:
